@@ -1,0 +1,805 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7B92AB-B683-46B0-AAEC-38D4CEC72A73}|BlaisePascal.Lessons.Domain.UnitTests\\BlaisePascal.Lessons.Domain.UnitTests.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain.unittests\\montecarlotest\\piestimationexperimenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7B92AB-B683-46B0-AAEC-38D4CEC72A73}|BlaisePascal.Lessons.Domain.UnitTests\\BlaisePascal.Lessons.Domain.UnitTests.csproj|solutionrelative:blaisepascal.lessons.domain.unittests\\montecarlotest\\piestimationexperimenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7B92AB-B683-46B0-AAEC-38D4CEC72A73}|BlaisePascal.Lessons.Domain.UnitTests\\BlaisePascal.Lessons.Domain.UnitTests.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain.unittests\\dicerollertest\\mocksequencerandomprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7B92AB-B683-46B0-AAEC-38D4CEC72A73}|BlaisePascal.Lessons.Domain.UnitTests\\BlaisePascal.Lessons.Domain.UnitTests.csproj|solutionrelative:blaisepascal.lessons.domain.unittests\\dicerollertest\\mocksequencerandomprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7B92AB-B683-46B0-AAEC-38D4CEC72A73}|BlaisePascal.Lessons.Domain.UnitTests\\BlaisePascal.Lessons.Domain.UnitTests.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain.unittests\\dicerollertest\\dicerollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7B92AB-B683-46B0-AAEC-38D4CEC72A73}|BlaisePascal.Lessons.Domain.UnitTests\\BlaisePascal.Lessons.Domain.UnitTests.csproj|solutionrelative:blaisepascal.lessons.domain.unittests\\dicerollertest\\dicerollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7B92AB-B683-46B0-AAEC-38D4CEC72A73}|BlaisePascal.Lessons.Domain.UnitTests\\BlaisePascal.Lessons.Domain.UnitTests.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7B92AB-B683-46B0-AAEC-38D4CEC72A73}|BlaisePascal.Lessons.Domain.UnitTests\\BlaisePascal.Lessons.Domain.UnitTests.csproj|solutionrelative:blaisepascal.lessons.domain.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\venueevents\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\venueevents\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\venueevents\\eventtag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\venueevents\\eventtag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\venueevents\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\venueevents\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\sudoku\\sudokugenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\sudoku\\sudokugenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\stringclass\\stringdocumentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\stringclass\\stringdocumentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\schoolmanager\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\schoolmanager\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\schoolmanager\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\schoolmanager\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\schoolmanager\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\schoolmanager\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\schoolmanager\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\schoolmanager\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\schoolmanager\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\schoolmanager\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\ricorsione\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\ricorsione\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\overloadoperator\\fraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\overloadoperator\\fraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\orchestrainterface\\orchestra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\orchestrainterface\\orchestra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\orchestrainterface\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\orchestrainterface\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\orchestrainterface\\isoundmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\orchestrainterface\\isoundmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\orchestrainterface\\instrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\orchestrainterface\\instrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\orchestrainterface\\piano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\orchestrainterface\\piano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\orchestrainterface\\soundmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\orchestrainterface\\soundmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\orchestrainterface\\drum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\orchestrainterface\\drum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\montecarlo\\piestimationexperiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\montecarlo\\piestimationexperiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\montecarlo\\buffonscoinexperiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\montecarlo\\buffonscoinexperiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\montecarlo\\integralexperiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\montecarlo\\integralexperiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\montecarlo\\montecarloexperiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\montecarlo\\montecarloexperiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\montecarlo\\montecarlosimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\montecarlo\\montecarlosimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\montecarlo\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\montecarlo\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\montecarlo\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\montecarlo\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\montecarlo\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\montecarlo\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\montecarlo\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\montecarlo\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\montecarlo\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\montecarlo\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\matrix\\ilinearsystemsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\matrix\\ilinearsystemsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\matrix\\squarematrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\matrix\\squarematrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\matrix\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\matrix\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\matrix\\linearsystemcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\matrix\\linearsystemcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\matrix\\cramersolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\matrix\\cramersolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\magicsquare\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\magicsquare\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\equality\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\equality\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\dicerollerwithinterface\\irandomprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\dicerollerwithinterface\\irandomprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\dicerollerwithinterface\\diceroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\dicerollerwithinterface\\diceroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\dicerollerwithinterface\\defaultrandomprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\dicerollerwithinterface\\defaultrandomprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\cellbackupcell\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\cellbackupcell\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\cellbackupcell\\backupcell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\cellbackupcell\\backupcell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\bookinglab\\labmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\bookinglab\\labmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\bookinglab\\hole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\bookinglab\\hole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\bookinglab\\coursename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\bookinglab\\coursename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|c:\\users\\pumab\\desktop\\informatica\\blaisepascal.lessons\\blaisepascal.lessons.domain\\bookinglab\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1554F2-837E-4CEC-93FE-F7C85CFC797A}|BlaisePascal.Lessons.Domain\\BlaisePascal.Lessons.Domain.csproj|solutionrelative:blaisepascal.lessons.domain\\bookinglab\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PiEstimationExperimentTests.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain.UnitTests\\MonteCarloTest\\PiEstimationExperimentTests.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain.UnitTests\\MonteCarloTest\\PiEstimationExperimentTests.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain.UnitTests\\MonteCarloTest\\PiEstimationExperimentTests.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain.UnitTests\\MonteCarloTest\\PiEstimationExperimentTests.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:43:45.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MockSequenceRandomProvider.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain.UnitTests\\DiceRollerTest\\MockSequenceRandomProvider.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain.UnitTests\\DiceRollerTest\\MockSequenceRandomProvider.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain.UnitTests\\DiceRollerTest\\MockSequenceRandomProvider.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain.UnitTests\\DiceRollerTest\\MockSequenceRandomProvider.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:43:04.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiceRollerTest.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain.UnitTests\\DiceRollerTest\\DiceRollerTest.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain.UnitTests\\DiceRollerTest\\DiceRollerTest.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain.UnitTests\\DiceRollerTest\\DiceRollerTest.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain.UnitTests\\DiceRollerTest\\DiceRollerTest.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:42:36.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain.UnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain.UnitTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain.UnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain.UnitTests\\UnitTest1.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAwwE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:41:36.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\VenueEvents\\Venue.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\VenueEvents\\Venue.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\VenueEvents\\Venue.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\VenueEvents\\Venue.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAwwKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:39:04.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventTag.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\VenueEvents\\EventTag.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\VenueEvents\\EventTag.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\VenueEvents\\EventTag.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\VenueEvents\\EventTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:38:57.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\VenueEvents\\Event.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\VenueEvents\\Event.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\VenueEvents\\Event.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\VenueEvents\\Event.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:38:46.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SudokuGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\Sudoku\\SudokuGenerator.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\Sudoku\\SudokuGenerator.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\Sudoku\\SudokuGenerator.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\Sudoku\\SudokuGenerator.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAwwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:38:03.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StringDocumentation.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\StringClass\\StringDocumentation.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\StringClass\\StringDocumentation.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\StringClass\\StringDocumentation.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\StringClass\\StringDocumentation.cs",
+              "ViewState": "AgIAANsAAAAAAAAAAAAwwPIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:37:07.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\SchoolManager\\Person.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\SchoolManager\\Person.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\SchoolManager\\Person.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\SchoolManager\\Person.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA/wCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:35:16.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "School.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\SchoolManager\\School.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\SchoolManager\\School.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\SchoolManager\\School.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\SchoolManager\\School.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:35:26.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\SchoolManager\\Student.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\SchoolManager\\Student.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\SchoolManager\\Student.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\SchoolManager\\Student.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:35:36.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\SchoolManager\\Teacher.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\SchoolManager\\Teacher.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\SchoolManager\\Teacher.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\SchoolManager\\Teacher.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA/wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:35:51.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\SchoolManager\\Grade.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\SchoolManager\\Grade.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\SchoolManager\\Grade.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\SchoolManager\\Grade.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:35:05.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Fibonacci.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\Ricorsione\\Fibonacci.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\Ricorsione\\Fibonacci.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\Ricorsione\\Fibonacci.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\Ricorsione\\Fibonacci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:34:00.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Fraction.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\OverloadOperator\\Fraction.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\OverloadOperator\\Fraction.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\OverloadOperator\\Fraction.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\OverloadOperator\\Fraction.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:33:26.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ISoundMaker.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\OrchestraInterface\\ISoundMaker.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\OrchestraInterface\\ISoundMaker.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\OrchestraInterface\\ISoundMaker.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\OrchestraInterface\\ISoundMaker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:30:10.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\OrchestraInterface\\Person.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\OrchestraInterface\\Person.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\OrchestraInterface\\Person.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\OrchestraInterface\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:30:46.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Orchestra.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\OrchestraInterface\\Orchestra.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\OrchestraInterface\\Orchestra.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\OrchestraInterface\\Orchestra.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\OrchestraInterface\\Orchestra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:30:34.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Instrument.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\OrchestraInterface\\Instrument.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\OrchestraInterface\\Instrument.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\OrchestraInterface\\Instrument.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\OrchestraInterface\\Instrument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:29:56.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Piano.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\OrchestraInterface\\Piano.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\OrchestraInterface\\Piano.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\OrchestraInterface\\Piano.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\OrchestraInterface\\Piano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:30:54.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SoundMaker.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\OrchestraInterface\\SoundMaker.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\OrchestraInterface\\SoundMaker.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\OrchestraInterface\\SoundMaker.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\OrchestraInterface\\SoundMaker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:31:07.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Drum.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\OrchestraInterface\\Drum.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\OrchestraInterface\\Drum.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\OrchestraInterface\\Drum.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\OrchestraInterface\\Drum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:29:48.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IntegralExperiment.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\MonteCarlo\\IntegralExperiment.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\MonteCarlo\\IntegralExperiment.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\MonteCarlo\\IntegralExperiment.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\MonteCarlo\\IntegralExperiment.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:23:49.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PiestimationExperiment.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\MonteCarlo\\PiestimationExperiment.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\MonteCarlo\\PiestimationExperiment.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\MonteCarlo\\PiestimationExperiment.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\MonteCarlo\\PiestimationExperiment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:24:46.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MonteCarloExperiment.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\MonteCarlo\\MonteCarloExperiment.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\MonteCarlo\\MonteCarloExperiment.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\MonteCarlo\\MonteCarloExperiment.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\MonteCarlo\\MonteCarloExperiment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:24:06.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MonteCarloSimulator.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\MonteCarlo\\MonteCarloSimulator.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\MonteCarlo\\MonteCarloSimulator.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\MonteCarlo\\MonteCarloSimulator.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\MonteCarlo\\MonteCarloSimulator.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvyYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:24:24.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\MonteCarlo\\Utility.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\MonteCarlo\\Utility.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\MonteCarlo\\Utility.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\MonteCarlo\\Utility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:25:28.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\MonteCarlo\\Square.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\MonteCarlo\\Square.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\MonteCarlo\\Square.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\MonteCarlo\\Square.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvyEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:25:17.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BuffonsCoinExperiment.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\MonteCarlo\\BuffonsCoinExperiment.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\MonteCarlo\\BuffonsCoinExperiment.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\MonteCarlo\\BuffonsCoinExperiment.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\MonteCarlo\\BuffonsCoinExperiment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:23:22.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\MonteCarlo\\Rectangle.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\MonteCarlo\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\MonteCarlo\\Rectangle.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\MonteCarlo\\Rectangle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:25:08.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\MonteCarlo\\Point.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\MonteCarlo\\Point.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\MonteCarlo\\Point.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\MonteCarlo\\Point.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:24:57.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\MonteCarlo\\Circle.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\MonteCarlo\\Circle.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\MonteCarlo\\Circle.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\MonteCarlo\\Circle.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:23:31.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ILinearSystemSolver.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\Matrix\\ILinearSystemSolver.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\Matrix\\ILinearSystemSolver.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\Matrix\\ILinearSystemSolver.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\Matrix\\ILinearSystemSolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:19:44.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SquareMatrix.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\Matrix\\SquareMatrix.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\Matrix\\SquareMatrix.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\Matrix\\SquareMatrix.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\Matrix\\SquareMatrix.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAADwv1UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:20:30.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Matrix.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\Matrix\\Matrix.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\Matrix\\Matrix.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\Matrix\\Matrix.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\Matrix\\Matrix.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAADwv0IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:20:20.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LinearSystemContex.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\Matrix\\LinearSystemContex.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\Matrix\\LinearSystemContex.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\Matrix\\LinearSystemContex.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\Matrix\\LinearSystemContex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:20:08.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CramerSolver.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\Matrix\\CramerSolver.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\Matrix\\CramerSolver.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\Matrix\\CramerSolver.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\Matrix\\CramerSolver.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:19:03.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Matrix.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\MagicSquare\\Matrix.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\MagicSquare\\Matrix.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\MagicSquare\\Matrix.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\MagicSquare\\Matrix.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAADwv1YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:18:25.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\Equality\\Employee.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\Equality\\Employee.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\Equality\\Employee.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\Equality\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:17:28.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DiceRoller.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\DiceRollerWithInterface\\DiceRoller.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\DiceRollerWithInterface\\DiceRoller.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\DiceRollerWithInterface\\DiceRoller.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\DiceRollerWithInterface\\DiceRoller.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:16:12.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IRandomProvider.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\DiceRollerWithInterface\\IRandomProvider.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\DiceRollerWithInterface\\IRandomProvider.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\DiceRollerWithInterface\\IRandomProvider.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\DiceRollerWithInterface\\IRandomProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:16:27.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DefaultRandomProvider.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\DiceRollerWithInterface\\DefaultRandomProvider.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\DiceRollerWithInterface\\DefaultRandomProvider.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\DiceRollerWithInterface\\DefaultRandomProvider.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\DiceRollerWithInterface\\DefaultRandomProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:15:57.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BackUpCell.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\CellBackUpCell\\BackUpCell.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\CellBackUpCell\\BackUpCell.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\CellBackUpCell\\BackUpCell.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\CellBackUpCell\\BackUpCell.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:14:33.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\CellBackUpCell\\Cell.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\CellBackUpCell\\Cell.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\CellBackUpCell\\Cell.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\CellBackUpCell\\Cell.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:14:19.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LabManager.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\BookingLab\\LabManager.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\BookingLab\\LabManager.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\BookingLab\\LabManager.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\BookingLab\\LabManager.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAADwv9wAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:13:20.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Hole.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\BookingLab\\Hole.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\BookingLab\\Hole.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\BookingLab\\Hole.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\BookingLab\\Hole.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:12:55.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CourseName.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\BookingLab\\CourseName.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\BookingLab\\CourseName.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\BookingLab\\CourseName.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\BookingLab\\CourseName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:12:33.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\BookingLab\\Booking.cs",
+              "RelativeDocumentMoniker": "BlaisePascal.Lessons.Domain\\BookingLab\\Booking.cs",
+              "ToolTip": "C:\\Users\\pumab\\Desktop\\Informatica\\BlaisePascal.Lessons\\BlaisePascal.Lessons.Domain\\BookingLab\\Booking.cs",
+              "RelativeToolTip": "BlaisePascal.Lessons.Domain\\BookingLab\\Booking.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:12:01.756Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
