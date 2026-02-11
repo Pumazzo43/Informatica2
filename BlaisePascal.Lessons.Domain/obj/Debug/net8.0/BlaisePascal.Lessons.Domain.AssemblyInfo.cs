@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlaisePascal.Lessons.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca3cdea2ac79d6c589e5ffb609972802f8b5b750")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71ce9ba97aa9a2677754166a2d6acb690d5b9f6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlaisePascal.Lessons.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlaisePascal.Lessons.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
